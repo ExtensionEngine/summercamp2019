@@ -7,9 +7,9 @@ This is a short description for the repo
 ### Prerequisites
 
 ```
-1. Create the database and put its username and password in .env
-2. npm install
-3. npm run db:seed
-4. npm run start
-5. Navigate to localhost:8080 in browser
+1. Step 1
+2. Step 2
+3. Step 3
+4. Step 4
+5. Step 5
 ```
